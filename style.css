@@ -86,6 +86,9 @@ body{
         background: none;
     }
 
+    .logo{
+        width: 60px;
+    }
     .ham{
         display: block;
     }
